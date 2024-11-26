@@ -12,5 +12,4 @@ To start using this project, users need to follow these steps:
 3:Run the Flask Application: Start the Flask server by running the main Python script, which will host the application on a local server.
 4:Interact with the Model: Users can send a prompt via a web interface or API request, and the model will generate a response based on the input. The generated content can be further customized according to the project’s requirements.
 5:This simple interface allows users to integrate the AI text generation functionality into their applications or use it for creative projects.
-# Related Projects
-Check this link: https://github.com/periketishashikumar?tab=repositories
+
